@@ -2,3 +2,5 @@ git_test02.txt verseion1.0
 这是dev分支增加的语句
 
 这是最终的合并后的分支
+
+这是新的dev分支
